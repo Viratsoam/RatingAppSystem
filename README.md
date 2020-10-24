@@ -42,6 +42,6 @@ s
 4. npm start
   
 # Note:
-1.) I have completed the assignment as per the given instructions which fullfill all the rquirements.
-2.) I completed this assignement as per the standard format of scalabe project.
-3.) challenging thing for me only, when i was thinking the designed part of the product and i did it just take a few time. 
+1. I have completed the assignment as per the given instructions which fullfill all the rquirements.
+2. I completed this assignement as per the standard format of scalabe project.
+3. challenging thing for me only, when i was thinking the designed part of the product and i did it just take a few time. 
