@@ -22,5 +22,9 @@ taken.
 # Steps:
 
   1.) Create the Rider
-    http://localhost:8000/rider/api/create
+    URL: http://localhost:8000/rider/api/create
     ![](images/create_Rider.png)
+  2.) Create the Driver
+    URL: http://localhost:8000/driver/api/create
+    ![](images/driver_created.png)
+    
