@@ -13,8 +13,14 @@ taken.
 2. express.js
 3. RestFullAPI
 
-# Steps
+# How to use this API's:
+1. clone it
+2. open this folder on teminal
+3. Enter npm install
+4. npm start
 
-  # -1.) Create the Rider
-      url:- http://localhost:8000/rider/api/create
-      ![](images/create_Rider.png)
+# Steps:
+
+  1.) Create the Rider
+    http://localhost:8000/rider/api/create
+    ![](images/create_Rider.png)
